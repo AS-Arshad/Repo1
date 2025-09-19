@@ -98,6 +98,10 @@ $sudo apt install gtkwave
 
 <img width="763" height="100" alt="Screenshot from 2025-09-19 20-33-30" src="https://github.com/user-attachments/assets/c5a9a5c1-3f12-4da6-b1c1-71b8f139e335" />
 
+
+<img width="602" height="546" alt="Screenshot from 2025-09-19 22-48-42" src="https://github.com/user-attachments/assets/703b8632-9135-4994-8658-63249fb206b5" />
+
+
 ## End Note
 ---
 - I recmommend using the available gpt's if you have any doubts like gemini, chatgpt, grok and deepseek
