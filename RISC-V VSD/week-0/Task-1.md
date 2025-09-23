@@ -1,4 +1,4 @@
-# week0-task2
+# week0-task1
 ## RISC-V Program tools installation
 ### System Check
 ---
