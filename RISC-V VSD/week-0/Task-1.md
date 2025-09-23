@@ -1,5 +1,4 @@
-# week0-task1
-## RISC-V Program tools installation
+# RISC-V Program tools installation
 ### System Check
 ---
 check the system requirments before getting started
