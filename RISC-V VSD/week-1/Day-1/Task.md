@@ -38,3 +38,4 @@ Simulators are the tools that check whether the RTL design generated through HDL
 
 - it is a open-source simulator tool used to verify the design
 - iverilog performs the simulation by feeding the test stimulus from testbench to design and checking the resulted output
+- the iverilog flow can be understand by the following image
