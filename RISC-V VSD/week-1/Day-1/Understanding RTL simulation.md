@@ -42,3 +42,13 @@ Simulators are the tools that check whether the RTL design generated through HDL
 
 ![Image Alt](https://github.com/AS-Arshad/Repo1/blob/803d0c196ee34af8347d053f5023167d9453ca3e/RISC-V%20VSD/week-1/Day-1/iverilog%20based%20simulation%20flow.png)
 
+- After obtaining the **VCD (Value Change Dump)** file, we can use gtkwave to debug and understand the specs functionality using waveforms
+
+### End Note
+
+- with this we have understand the RTL simulation
+- we have understand the design and test-bench
+- we have understand the test-bench design flow
+- we have understand the simulator design flow
+
+- Next we are going to get a file from **kunal** sir ofcoure and use them to dive deep
