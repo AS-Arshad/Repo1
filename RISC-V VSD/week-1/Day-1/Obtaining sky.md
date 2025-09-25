@@ -12,4 +12,14 @@
 ## Let's explore this folder
 - understand the commands and files present in each directory
 
-  ![Image Alt](
+  ![Image Alt](https://github.com/AS-Arshad/Repo1/blob/10e137d4319a3340d25643b0f6209e8fcec82bbe/RISC-V%20VSD/week-1/Day-1/exploring%20sky%20files.png)
+
+  - lets go through the image for each step
+ 
+    - we first created a new directory (folder) named **vlsi**
+    - we then cloned the **sky** files from kunal sir's repo
+    - now we can see the sky file in the vlsi directory
+    - the contents of the sky has been looked at
+    - note that the design and test-benches we are going to use are present inside **verilog_files** directory
+    - we can notice that each design has its test-bench model
+    - we can use this and understand the simulator much easier
