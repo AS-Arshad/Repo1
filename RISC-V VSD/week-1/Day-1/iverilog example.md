@@ -36,5 +36,8 @@ $ iverilog good_mux.v tb_good_mux.v
   - we can see that the files are dumped and created a new file **good_mux.vcd**
  
   - Using this file we can observe the waveform using gtkwave
+  - the observed wave form can be understand in the following picture :
+
+    ![Image Alt](https://github.com/AS-Arshad/Repo1/blob/26317e5e5bce843ef3150003d7cd0675f9d8c422/RISC-V%20VSD/week-1/Day-1/good_mux%20waveform%20using%20gtkwave.png)
  
   
