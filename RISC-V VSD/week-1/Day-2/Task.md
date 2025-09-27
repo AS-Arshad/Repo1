@@ -221,5 +221,3 @@ endmodule
 ## Summary
 This overview provides you with practical insights into timing libraries, synthesis strategies, and reliable coding practices for flip-flops. Continue experimenting with these concepts to deepen your understanding of RTL design and synthesis.
 
--- we will be using mltiple_module.v file to understand the **-top** function
-- 
